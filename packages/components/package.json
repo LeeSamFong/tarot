@@ -1,0 +1,14 @@
+{
+  "name": "@folee-tarot/components",
+  "version": "0.0.0",
+  "description": "all components are settled here",
+  "main": "index.ts",
+  "module": "index.ts",
+  "types": "index.d.ts",
+  "peerDependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "vue": "^3.5.13"
+  }
+}
